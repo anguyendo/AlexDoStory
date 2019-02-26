@@ -4,3 +4,9 @@ to traverse the great sea of avl binary search tree, conquer its ruthless
 rotations and constant rebalancing, in order to find the mysterious One Key.
 Legend holds, the one who posseses the One Key has the value to rule over all 
 code.
+
+However, Git was not successful in his search. Instead of finding The One Key, he found
+a two key. He went to ask the wise wizard what this key was. 
+  "It's the two key! Any useful binary search tree can store multiple keys, after all."
+The wizard explained.
+  "Thanks, but I still would prefer the one key," The Git responded.
