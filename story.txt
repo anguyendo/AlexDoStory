@@ -1,0 +1,6 @@
+Once upon a time there was a boy named Git. You see, Git had a crazy dream,
+and that dream was to become the next king of the coders. To do this, he had
+to traverse the great sea of avl binary search tree, conquer its ruthless
+rotations and constant rebalancing, in order to find the mysterious One Key.
+Legend holds, the one who posseses the One Key has the value to rule over all 
+code.
