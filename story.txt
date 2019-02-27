@@ -10,3 +10,5 @@ a two key. He went to ask the wise wizard what this key was.
   "It's the two key! Any useful binary search tree can store multiple keys, after all."
 The wizard explained.
   "Thanks, but I still would prefer the one key," The Git responded.
+
+"And I would prefer to be talking to Sharon Stone", the wizard grumbled, "but even as a wizard that's not a reasonable..." His voice trailed off as if reconsidering what he was about to say, then he came to his senses. "If you want the one key, try the left child of the two key. That's the only place it could be, unless it dropped down the side of the car seat again".
